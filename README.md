@@ -1,0 +1,2 @@
+# 75th_kouhaku_cht_subtitles_subsetted
+適用於NHK BSP4K的第75屆紅白歌唱大賽繁體中文字幕
