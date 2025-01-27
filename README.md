@@ -3,7 +3,7 @@ Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
 This work is licensed under a 
 [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
-本翻譯翻譯由[創作共用 姓名標示─非商業性 4.0 國際協定][cc-by-nc]授權。
+本翻譯作品由[創作共用 姓名標示─非商業性 4.0 國際協定][cc-by-nc]授權。
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
