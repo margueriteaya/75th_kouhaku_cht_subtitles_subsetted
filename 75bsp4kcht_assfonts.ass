@@ -10,6 +10,7 @@ TranslationTextStyle: 譯文字幕
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding, LineSpacing
+Style: VTR對話字幕,FOT-筑紫ゴシック Pro E,22,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,1,0,0,0,100,100,0.3,0,1,4,0,2,5,5,36,1,0
 Style: 歌詞字幕,森澤UD新黑 標準繁體 M,16,&H00FFFFFF,&HF0000000,&H00222222,&H00000000,0,0,0,0,100,100,0.8,0,1,4,0,2,5,5,23,1,0
 Style: 原文字幕,FOT-Anito Std M,10,&H0000C8FF,&HF0000000,&H002F2F2F,&H00000000,0,0,0,0,100,100,0.1,0,1,4,0,2,5,5,6,1,0
 Style: 譯文字幕,Source Han Sans TC Medium,18,&H00FFFFFF,&HF0000000,&H00222222,&H00000000,0,0,0,0,100,100,0.1,0,1,4,0,2,5,5,10,1,0
